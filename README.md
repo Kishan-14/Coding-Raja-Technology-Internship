@@ -4,7 +4,7 @@ It is used to add member,add book to the database store in the data.They are all
 And search to the any books and members to the database and show to the project.and it will the borrow book and return book
 to the database related.They are all panel to open in the desktop panel it can easily minimize and maximize to the panel.
 This project is used to the MsAccess 2007 database.it is used on jdbcodbc driver in the project.
-And It is jar file to create in the directly open in the project.it can not softweare install on your pc.only jdk install
+And It is jar file to create in the directly open in the project.it can't software install on your pc.only jdk install
 in the pc to run the jar file.
 
 # Features
