@@ -1,5 +1,5 @@
 # TASK 2 : LIBRARY MANAGEMENT SYSTEM
-This Project is Library Management System Version 2.0 in the Advance System in Java. it is more facility in the project.
+This Project is Library Management System in the Advance System in Java. it is more facility in the project.
 It is used to add member,add book to the database store in the data.They are all list to book and member add in the project.
 And search to the any books and members to the database and show to the project.and it will the borrow book and return book
 to the database related.They are all panel to open in the desktop panel it can easily minimize and maximize to the panel.
